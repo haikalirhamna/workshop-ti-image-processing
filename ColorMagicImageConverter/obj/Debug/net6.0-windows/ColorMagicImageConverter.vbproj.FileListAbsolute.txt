@@ -1,0 +1,17 @@
+C:\Users\haika\source\repos\ColorMagicImageConverter\ColorMagicImageConverter\obj\Debug\net6.0-windows\ColorMagicImageConverter.vbproj.AssemblyReference.cache
+C:\Users\haika\source\repos\ColorMagicImageConverter\ColorMagicImageConverter\obj\Debug\net6.0-windows\ColorMagicImageConverter.Form1.resources
+C:\Users\haika\source\repos\ColorMagicImageConverter\ColorMagicImageConverter\obj\Debug\net6.0-windows\ColorMagicImageConverter.vbproj.GenerateResource.cache
+C:\Users\haika\source\repos\ColorMagicImageConverter\ColorMagicImageConverter\obj\Debug\net6.0-windows\ColorMagicImageConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haika\source\repos\ColorMagicImageConverter\ColorMagicImageConverter\obj\Debug\net6.0-windows\ColorMagicImageConverter.AssemblyInfoInputs.cache
+C:\Users\haika\source\repos\ColorMagicImageConverter\ColorMagicImageConverter\obj\Debug\net6.0-windows\ColorMagicImageConverter.AssemblyInfo.vb
+C:\Users\haika\source\repos\ColorMagicImageConverter\ColorMagicImageConverter\obj\Debug\net6.0-windows\ColorMagicImageConverter.vbproj.CoreCompileInputs.cache
+C:\Users\haika\source\repos\ColorMagicImageConverter\ColorMagicImageConverter\bin\Debug\net6.0-windows\ColorMagicImageConverter.exe
+C:\Users\haika\source\repos\ColorMagicImageConverter\ColorMagicImageConverter\bin\Debug\net6.0-windows\ColorMagicImageConverter.deps.json
+C:\Users\haika\source\repos\ColorMagicImageConverter\ColorMagicImageConverter\bin\Debug\net6.0-windows\ColorMagicImageConverter.runtimeconfig.json
+C:\Users\haika\source\repos\ColorMagicImageConverter\ColorMagicImageConverter\bin\Debug\net6.0-windows\ColorMagicImageConverter.dll
+C:\Users\haika\source\repos\ColorMagicImageConverter\ColorMagicImageConverter\bin\Debug\net6.0-windows\ColorMagicImageConverter.pdb
+C:\Users\haika\source\repos\ColorMagicImageConverter\ColorMagicImageConverter\obj\Debug\net6.0-windows\ColorMagicImageConverter.dll
+C:\Users\haika\source\repos\ColorMagicImageConverter\ColorMagicImageConverter\obj\Debug\net6.0-windows\refint\ColorMagicImageConverter.dll
+C:\Users\haika\source\repos\ColorMagicImageConverter\ColorMagicImageConverter\obj\Debug\net6.0-windows\ColorMagicImageConverter.pdb
+C:\Users\haika\source\repos\ColorMagicImageConverter\ColorMagicImageConverter\obj\Debug\net6.0-windows\ColorMagicImageConverter.genruntimeconfig.cache
+C:\Users\haika\source\repos\ColorMagicImageConverter\ColorMagicImageConverter\obj\Debug\net6.0-windows\ref\ColorMagicImageConverter.dll
