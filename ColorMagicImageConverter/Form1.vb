@@ -25,7 +25,7 @@
     Private Function ConvertImage(originalImage As Bitmap) As Bitmap
         Dim newImage As New Bitmap(originalImage.Width, originalImage.Height)
 
-        Dim partWidth As Integer = originalImage.Width \ 3
+        Dim partWidth As Integer = originalImage.Width \ 5
 
         For y As Integer = 0 To originalImage.Height - 1
             For x As Integer = 0 To originalImage.Width - 1
@@ -36,11 +36,15 @@
 
                 Select Case partIndex
                     Case 0
-                        newColor = Color.FromArgb(originalColor.A, originalColor.R, 0, 0)
+                        newColor = Color.FromArgb(originalColor.A, originalColor.R, 165, 0)
                     Case 1
-                        newColor = Color.FromArgb(originalColor.A, 0, originalColor.G, 0)
+                        newColor = Color.FromArgb(originalColor.A, originalColor.R, 192, 203)
                     Case 2
-                        newColor = Color.FromArgb(originalColor.A, 0, 0, originalColor.B)
+                        newColor = Color.FromArgb(originalColor.A, originalColor.R, originalColor.G, 102)
+                    Case 3
+                        newColor = Color.FromArgb(originalColor.A, originalColor.R, 69, 0)
+                    Case 4
+                        newColor = Color.FromArgb(originalColor.A, 221, 160, originalColor.B) ' Opacity (alpha) set to 128 (0.5 * 255)
                     Case Else
                         newColor = originalColor
                 End Select
